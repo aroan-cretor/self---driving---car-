@@ -17,6 +17,6 @@
 
 ## Authors
 Aroan Ghebrezghabher
-* GitHub : @ aroan - cretor
+* GitHub : @ aroan - mehari
 * Linkedin :@ aroan gere
 * twitter :@aroan
