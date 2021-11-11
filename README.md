@@ -19,4 +19,4 @@
 Aroan Ghebrezghabher
 * GitHub : @ aroan - mehari
 * Linkedin :@ aroan gere
-* twitter :@aroan
+* twitter :@aroanmehari_g
