@@ -12,7 +12,7 @@
 * On-off switch
 
 ## Images 
-![self driving ](https://user-images.githubusercontent.com/62258485/141219656-d1cec95c-aa35-45ae-84d1-e8c456316dd3.jpeg =250x250  )
+![self driving ](https://user-images.githubusercontent.com/62258485/141219656-d1cec95c-aa35-45ae-84d1-e8c456316dd3.jpeg )
 ![self driving 1](https://user-images.githubusercontent.com/62258485/141219663-fe36ab80-2d47-420b-b513-d5c1ed174400.jpeg)
 
 ## Authors
