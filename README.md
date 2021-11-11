@@ -12,5 +12,9 @@
 * On-off switch
 
 ## Images 
-![](self driving.jpeg)
-![](self driving 1.jpeg)
+<img
+src=“self driving.jpeg”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
