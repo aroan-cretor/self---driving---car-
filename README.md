@@ -12,9 +12,4 @@
 * On-off switch
 
 ## Images 
-<img
-src=“self driving.jpeg”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![alt text](https://github.com/aroan-cretor/self---driving---car-/blob/master/self driving.jpeg?raw=true)
